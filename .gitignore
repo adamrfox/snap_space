@@ -1,0 +1,5 @@
+build
+dist
+*.csv
+*.pyc
+*.spec
